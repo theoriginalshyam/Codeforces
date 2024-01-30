@@ -3,7 +3,6 @@ cin>>n;
 vector<vi> v(n);
 ll k;
 vl size(0);
-ll split = 0, comb = 0;
 for(int i =0; i < n; i++){
     cin>>k;
     size.push_back(k);
